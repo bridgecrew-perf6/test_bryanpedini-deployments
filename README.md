@@ -67,7 +67,7 @@ OpenSSH (v6)               ALLOW       Anywhere (v6)
 
 ## Creazione ed impostazione della infrastruttura sull'host
 
-Per semplificare la ripetizione della procedura ho creato un semplice script, fate riferimento al contenuto di questo stesso repository pubblico, il cui file `install.sh` vi farà poi scaricare due repo altrettanto pubblici da https://github.com/bryanpedini-deployments .
+Per semplificare la ripetizione della procedura ho creato un semplice script, fate riferimento al contenuto di questo stesso repository pubblico, il cui file [`install.sh`](./install.sh) vi farà poi scaricare due repo altrettanto pubblici da https://github.com/bryanpedini-deployments .
 
 Clono questo repository da GitHub con il comando `git clone https://github.com/zenefono/testInfrastructure.git`.
 Entro nella cartella, do i permessi d'esecuzione al file install.sh con i comandi `cd ./test_bryanpedini-deployments && chmod +x ./install.sh`.
